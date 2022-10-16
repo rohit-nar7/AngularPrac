@@ -1,0 +1,31 @@
+
+.card {
+    width: 200px;
+    height: auto;
+    padding: 40px;
+    margin-left: 50px;
+    float: left;
+}
+
+
+.card-content {
+    margin:5px;
+    padding:10px;
+    border: 2px solid #ccc;
+    text-align: center;
+    color: black;
+    font-size: larger;
+    box-shadow: 4px 2px rgb(138, 190, 207);
+   }
+
+ 
+
+.search-box{
+    margin-top: 50px;
+    text-align: center;  
+}
+
+#text {
+    height: 20px;
+}
+
